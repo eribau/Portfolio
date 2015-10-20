@@ -1,0 +1,29 @@
+body {
+    position: relative;
+}
+
+#section1 {
+    padding-top: 50px;
+    height: 750px;
+    color: #fff;
+    background-color: deepskyblue;
+}
+
+#section2 {
+    padding-top: 50px;
+    height: 750px;
+    color: #fff;
+    background-color: blueviolet;
+}
+
+#section3 {
+    padding-top: 50px;
+    height: 500px;
+    color: #fff;
+    background-color: royalblue;
+}
+
+.title {
+    text-align: center;
+    font-size: 5em;
+}
